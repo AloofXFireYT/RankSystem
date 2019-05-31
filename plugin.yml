@@ -3,7 +3,7 @@ author: Fludixx
 description: "RankSystem for Pocketmine"
 main: Fludixx\RankSystem\RankSystem
 version: 2.0
-api: [3.0.0]
+api: [3.8.2]
 permissions:
   rs.manage:
     description: "Allows the User to create & manage Ranks"
